@@ -248,7 +248,7 @@ function reset(){
   
   distance = 0;
   maskCount = 0
-  
+  sanitizerCount = 0;
 }
 
 // spawn the Mask
