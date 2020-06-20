@@ -84,7 +84,6 @@ function draw() {
   background(backgroundImg);
   if(gameState===PLAY){
     
-      mySound.play();
       distance = distance + Math.round(getFrameRate()/60);
       fill(0);
       textSize(20);
