@@ -88,7 +88,7 @@ function draw() {
       fill(0);
       textSize(20);
       textFont("Arial");
-      text("Collect 10 Masks and 5 Sanitizer to won this game : Happy Father's Day ", 10,20);
+      text("Collect 10 Masks and 5 Sanitizer to win this game : Happy Father's Day ", 10,20);
       text("Press space to jump...",10,40);
       text("Distance: "+ distance, 10,60);
       text("Mask Count: "+ maskCount, 10,100);
